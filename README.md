@@ -1,2 +1,2 @@
-# Computer-Vision-Project1
+# Computer-Vision Project
 Object Detection Using Yolov5
